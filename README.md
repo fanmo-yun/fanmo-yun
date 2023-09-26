@@ -1,6 +1,6 @@
-<font size=5>👋 Hi, I’m @fanmo-yun</font>
+<font size=8>👋 Hi, I’m @fanmo-yun, also you can call me Benson-Fan</font>
 ***
-<font size=3>A linux user, life for code ..., life for linux...</font><br/>
+<font size=4>A linux user, A Game player, life for code ..., life for linux...</font><br/>
 ***
 
 <div align="center">
@@ -15,7 +15,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    char Languages[][10] = { "C", "Rust", "Python", "Ruby", "Lua", "bash" };
+    char Languages[][10] = { "C", "Rust", "Python", "Ruby", "Lua", "bash", "go" };
     char Linux[][10] = { "Arch", "Manjaro", "Gentoo", "opensuse", "debian", "alpine", "fedora" };
     return 0;
 }
