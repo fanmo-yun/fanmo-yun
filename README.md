@@ -1,4 +1,4 @@
-<font size=8>👋 Hi, I’m @fanmo-yun, also you can call me Benson-Fan</font>
+<font size=8>👋 Hi, I’m @fanmo-yun, also you can call me Fan Moryn</font>
 ***
 <font size=4>A linux user, A Game player, life for code ..., life for linux...</font><br/>
 ***
